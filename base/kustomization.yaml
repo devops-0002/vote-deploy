@@ -6,4 +6,4 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: gouravshah/vote
-  newTag: v4
+  newTag: v5
