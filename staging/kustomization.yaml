@@ -6,7 +6,7 @@ patchesStrategicMerge:
 - service.yaml
 replicas:
 - name: vote
-  count: 2
+  count: 5
 namespace: staging
 commonLabels:
   project: instavote
